@@ -1,7 +1,7 @@
 public class program_method_05 {
     public static void main(String args[]){
         Main obj1 = new Main();
-        obj1.setData("Tushar",  "Pure Single");
+        obj1.setData("Komal",  "Pure Single");
         obj1.getData();
     }
 }
