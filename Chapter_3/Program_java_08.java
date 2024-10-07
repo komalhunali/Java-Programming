@@ -4,8 +4,8 @@ public class Program_java_08 {
     public static void main(String args[]){
         //linkedList
         LinkedList<String> list = new LinkedList<>();
-        list.add("Vrashali");
-        list.addFirst("Pravin");
+        list.add("Komal");
+        list.addFirst("Mahi");
 
         Iterator<String> e = list.iterator(); //iterator
 
