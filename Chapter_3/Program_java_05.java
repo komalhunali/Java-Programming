@@ -17,10 +17,10 @@ class Student{
 public class Program_java_05 {
     public static void main(String args[]){
         //class object
-        Student s1 = new Student(4212, "Pravin Junne", 21);
-        Student s2 = new Student(4211, "Parjyot wanve", 22);
-        Student s3 = new Student(4213, "Nikita wagh", 21);
-        Student s4 = new Student(4214, "Tushar shinde", 22);
+        Student s1 = new Student(4212, "Komal Hunali", 21);
+        Student s2 = new Student(4211, "Gauri Ithape", 22);
+        Student s3 = new Student(4213, "Sanjana Patil", 21);
+        Student s4 = new Student(4214, "Vaishu Pawar", 22);
         
         //ArrayList with Student constractor
         ArrayList<Student> list = new ArrayList<Student>();
