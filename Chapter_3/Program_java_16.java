@@ -6,7 +6,7 @@ public class Program_java_16 {
         Set<String> data = new LinkedHashSet<String>();
         //adding elements
         data.add("Komal");
-        data.add("Gogli");
+        data.add("Google");
         //
         System.out.println(data);
     }
