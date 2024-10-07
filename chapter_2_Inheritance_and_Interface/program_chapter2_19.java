@@ -55,7 +55,7 @@ class salary extends gross_sal implements taxes{
 public class program_chapter2_19 {
     public static void main(String args[]){
         salary empsal = new salary();
-        empsal.get_ename("Pravin");
+        empsal.get_ename("Komal");
         empsal.calc_gross_sal(90000, 50, 20);
         empsal.display();
     }    
