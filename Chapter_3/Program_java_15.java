@@ -6,10 +6,10 @@ public class Program_java_15 {
         //Deque
         Deque<String> dList = new ArrayDeque<>();
         //adding elements in dList
-        dList.offer("Vaibhav");
-        dList.offer("Hardik");
-        dList.offerFirst("Pravin");//add element at first
-        dList.offerLast("Pandurang");//add element at last
+        dList.offer("Mahi");
+        dList.offer("Komal");
+        dList.offerFirst("Rashi");//add element at first
+        dList.offerLast("Samu");//add element at last
 
         System.out.println("Elements in deque:");
         for(String st : dList){
