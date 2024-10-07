@@ -7,7 +7,7 @@ public class program_array_05 {
         //inserting data in array by index
         frinends[0]="Komal";
         frinends[1]="Mahi";
-        frinends[2]="kamaini";
+        frinends[2]="kamini";
         frinends[3]="Kiran";
         frinends[4]="Shweta";
         //display array elements
