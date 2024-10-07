@@ -8,7 +8,7 @@ public class program_constractor_02 {
 
 class Main{
     Main(){
-        String name = "Pravin";
+        String name = "Komal";
         System.out.print("i love coding and programming");
     }
 }
