@@ -1,7 +1,7 @@
 public class program_constractor_04 {
 public static void main(String args[]){
-    Main obj1 = new Main("Komal", 4212,20);
-    Main obj2 = new Main("Mahi",4213);
+    Main obj1 = new Main("Komal", 4268,20);
+    Main obj2 = new Main("Mahi",4219);
 
     obj1.display();
     obj2.display();
