@@ -5,10 +5,10 @@ public class Program_java_13 {
         //stack 
         Stack<String> st = new Stack<>();
         //adding elements
-        st.push("Pravin");
-        st.push("Panduran");
-        st.push("Tushar");
-        st.push("vrashali");
+        st.push("Praju");
+        st.push("Komal");
+        st.push("Shraddha");
+        st.push("Jannat");
 
         System.out.println("Elements in stack: "+st);
         //removing elements vrashali
