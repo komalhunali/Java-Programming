@@ -6,9 +6,9 @@ public class Program_java_11 {
 
         Vector vec = new Vector<>();
         //adding elements
-        vec.add("Pravin");
+        vec.add("Komal");
          //Adding elements
-         vec.addElement("Vrashali");
+         vec.addElement("Mahi");
 
          System.out.println(vec);
 
