@@ -6,10 +6,10 @@ public class Program_java_02 {
 
     ArrayList<String> nameList = new ArrayList<>(); //store only String type of elements
     //adding elements
-    nameList.add("Pravin");
-    nameList.add("Pandurang");
-    nameList.add("Tushar");
-    nameList.add(1,"Pranav");
+    nameList.add("Komal");
+    nameList.add("Mahi");
+    nameList.add("Pooja");
+    nameList.add(1,"Vaishu");
     
     //print list
     System.out.println(nameList);
