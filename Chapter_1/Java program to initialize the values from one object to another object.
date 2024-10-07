@@ -1,6 +1,6 @@
 public class program_constractor_05 {
     public static void main(String args[]){
-        Main obj1 = new Main("Pravin",20);
+        Main obj1 = new Main("komal",20);
         Main obj2 = new Main(obj1);
         obj1.display();
         System.out.println();
