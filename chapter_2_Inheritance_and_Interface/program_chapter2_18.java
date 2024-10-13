@@ -1,7 +1,7 @@
 
 interface emp_info{
     int empid = 10;
-    String empname = "Pravin";
+    String empname = "Komal";
     String empaddr = "Pune";
     void disp1();
 }
